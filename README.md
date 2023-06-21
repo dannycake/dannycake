@@ -8,7 +8,8 @@
 
 i love computers and breaking things
 
-i'm currently attending college for a degree in CS
+![](https://github.com/mxmmxx/stats/blob/master/generated/languages.svg#gh-dark-mode-only)
+![](https://github.com/mxmmxx/stats/blob/master/generated/overview.svg#gh-dark-mode-only)
 
 </div>
 
