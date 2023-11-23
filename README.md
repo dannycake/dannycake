@@ -5,12 +5,12 @@
 
 <div align="center">
 
-# hi, i'm danny. ✨
+# hi, i'm danny
 
-i love computers and breaking things
+i love computers, storage, and music
 
-![](https://github.com/mxmmxx/stats/blob/master/generated/languages.svg#gh-dark-mode-only)
 ![](https://github.com/mxmmxx/stats/blob/master/generated/overview.svg#gh-dark-mode-only)
+![](https://github.com/mxmmxx/stats/blob/master/generated/languages.svg#gh-dark-mode-only)
 
 </div>
 
