@@ -7,11 +7,7 @@
 
 # hi, i'm danny
 
-i love computers, storage, and music
-
-![](https://github.com/mxmmxx/stats/blob/master/generated/overview.svg#gh-dark-mode-only)
-![](https://github.com/mxmmxx/stats/blob/master/generated/languages.svg#gh-dark-mode-only)
-
+for programming commissions, please **ONLY** message me on telegram ([@D7sa6Cmf9zd7d](https://t.me/D7sa6Cmf9zd7d))
 </div>
 
 <br/>
