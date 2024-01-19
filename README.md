@@ -7,7 +7,7 @@
 
 # hi, i'm danny
 
-for programming commissions, please **ONLY** message me on telegram ([@D7sa6Cmf9zd7d](https://t.me/D7sa6Cmf9zd7d))
+for programming commissions, please **ONLY** message me on telegram ([@halluce](https://t.me/halluce))
 </div>
 
 <br/>
